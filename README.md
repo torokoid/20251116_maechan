@@ -178,7 +178,7 @@ p.note { display: none; }
 <h2><span class="yellow">故義母の１周忌でお寺に供養</span></h2>
 <a href="20251116_004.JPG" target="_blank"><img src="20251116_004.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">供養の写真は撮れず、終わるとお坊さん達は出かけてゆきました</span></h2>
+<h2><span class="yellow">流石に供養の写真は撮れず、終わるとお坊さん達は出かけてゆきました</span></h2>
 <a href="20251116_005.JPG" target="_blank"><img src="20251116_005.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">戻ると庭の木で蝶々が戯れてます</span></h2>
